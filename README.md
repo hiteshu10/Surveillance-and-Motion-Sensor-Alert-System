@@ -9,4 +9,3 @@ Security breaches and unauthorized access are major concerns in homes, offices, 
 ## Result
 The system was successfully implemented and simulated in Cisco Packet Tracer. When motion was detected by the sensor, an automatic alert notification was generated and sent to the user through the configured network. This demonstrates the effectiveness of using IoT-based surveillance with motion detection for real-time security monitoring and user notification.
 
-# Thieft-detection
